@@ -2,7 +2,7 @@
   <img src="https://nmscholars.files.wordpress.com/2018/07/cropped-logo-hitam.png" width="10%">
 </a>
 <a Alhazen href="https://nmscholars.wordpress.com">
-  <img src="https://github.com/mheriyanto/Alhazen/blob/master/Alhazen.png" width="50%">
+  <img src="https://github.com/Alhazenet/Alhazen/blob/master/Alhazen.png" width="50%">
 </a>
 
 # Alhazen
