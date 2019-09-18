@@ -1,2 +1,26 @@
+<a Alhazen href="https://nmscholars.wordpress.com">
+  <img src="https://nmscholars.files.wordpress.com/2018/07/cropped-logo-hitam.png" width="10%">
+</a>
+<a Alhazen href="https://nmscholars.wordpress.com">
+  <img src="https://github.com/mheriyanto/Alhazen/blob/master/Alhazen.png" width="50%">
+</a>
+
 # Alhazen
-Database and web browser of Islamic researchers and journals. For more information, visit our website: https://nmscholars.wordpress.com
+[![GitHub version](https://badge.fury.io/gh/Alhazenet%2FAlhazen.svg)](https://badge.fury.io/gh/Alhazenet%2FAlhazen)
+![GitHub top language](https://img.shields.io/github/languages/top/Alhazenet/Alhazen.svg)
+
+[![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](http://inch-ci.org/github/Alhazenet/hapi-auth-jwt2)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Alhazenet/Alhazen/issues)
+![GitHub contributors](https://img.shields.io/github/contributors/Alhazenet/Alhazen.svg)
+
+[![HitCount](http://hits.dwyl.com/Alhazenet/Alhazen.svg)](http://hits.dwyl.com/Alhazenet/Alhazen)
+![GitHub All Releases](https://img.shields.io/github/downloads/Alhazenet/Alhazen/total.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alhazenet/Alhazen.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/Alhazenet/Alhazen.svg)
+
+Database and web browser of Islamic researchers and journals. For more information, please visit our website: https://nmscholars.wordpress.com/
+
+References of these codes:
+
+[1] elsapy: https://github.com/ElsevierDev/elsapy
+[2] scopus: https://github.com/scopus-api/scopus
