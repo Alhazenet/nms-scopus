@@ -14,9 +14,13 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Alhazenet/Alhazen.svg)
 
 [![HitCount](http://hits.dwyl.com/Alhazenet/Alhazen.svg)](http://hits.dwyl.com/Alhazenet/Alhazen)
-![GitHub All Releases](https://img.shields.io/github/downloads/Alhazenet/Alhazen/total.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Alhazenet/Alhazen.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/Alhazenet/Alhazen.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/Alhazenet/Alhazen/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alhazenet/Alhazen)
+![GitHub Release Date](https://img.shields.io/github/release-date/Alhazenet/Alhazen)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Alhazenet/Alhazen)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alhazenet/Alhazen)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnm_scholars)
 
 Database and web browser of Islamic researchers and journals. For more information, please visit our website: https://nmscholars.wordpress.com/
 
