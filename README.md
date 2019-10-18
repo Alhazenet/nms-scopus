@@ -28,6 +28,7 @@ Database and web browser of Islamic researchers and journals. For more informati
 References of these codes:
 
 [1] elsapy: https://github.com/ElsevierDev/elsapy
+
 [2] scopus: https://github.com/scopus-api/scopus
 
 <!-- MARKDOWN LINKS & IMAGES -->
