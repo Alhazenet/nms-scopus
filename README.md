@@ -17,13 +17,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnm_scholars)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Database and web browser of Islamic researchers and journals. For more information, please visit our website: https://nmscholars.wordpress.com/
-
-References of these codes:
-
-[1] elsapy: https://github.com/ElsevierDev/elsapy
-
-[2] scopus: https://github.com/scopus-api/scopus
+Database and web browser of Islamic researchers and journals. For more information, please visit our website: https://nmscholars.wordpress.com/.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
